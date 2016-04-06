@@ -405,6 +405,7 @@
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
+* [Maven权威指南](http://book.huihoo.com/maven-the-definitive-guide/)
 
 ### JavaScript
 
